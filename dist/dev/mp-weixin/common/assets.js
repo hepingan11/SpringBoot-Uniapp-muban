@@ -1,0 +1,17 @@
+"use strict";
+const _imports_0$1 = "/static/icon/search.png";
+const _imports_1$1 = "/static/user.png";
+const _imports_2$1 = "/static/icon/Like.png";
+const _imports_0 = "/static/icon/edit.png";
+const _imports_1 = "/static/icon/order.png";
+const _imports_2 = "/static/icon/评价.png";
+const _imports_3 = "/static/icon/优惠券.png";
+const _imports_4 = "/static/icon/活动.png";
+exports._imports_0 = _imports_0$1;
+exports._imports_0$1 = _imports_0;
+exports._imports_1 = _imports_1$1;
+exports._imports_1$1 = _imports_1;
+exports._imports_2 = _imports_2$1;
+exports._imports_2$1 = _imports_2;
+exports._imports_3 = _imports_3;
+exports._imports_4 = _imports_4;
